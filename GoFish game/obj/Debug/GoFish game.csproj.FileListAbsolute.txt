@@ -1,0 +1,10 @@
+C:\Users\Denis\Desktop\GoFish game\GoFish game\bin\Debug\GoFish game.exe.config
+C:\Users\Denis\Desktop\GoFish game\GoFish game\bin\Debug\GoFish game.exe
+C:\Users\Denis\Desktop\GoFish game\GoFish game\bin\Debug\GoFish game.pdb
+C:\Users\Denis\Desktop\GoFish game\GoFish game\obj\Debug\GoFish game.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\GoFish game\GoFish game\obj\Debug\GoFish_game.Form1.resources
+C:\Users\Denis\Desktop\GoFish game\GoFish game\obj\Debug\GoFish_game.Properties.Resources.resources
+C:\Users\Denis\Desktop\GoFish game\GoFish game\obj\Debug\GoFish game.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\GoFish game\GoFish game\obj\Debug\GoFish game.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\GoFish game\GoFish game\obj\Debug\GoFish game.exe
+C:\Users\Denis\Desktop\GoFish game\GoFish game\obj\Debug\GoFish game.pdb
